@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361165861342",
+    "project_id": "mfys-technology-49193",
+    "storage_bucket": "mfys-technology-49193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361165861342:android:7cbe6d5e6cc1e517d8ed4f",
+        "android_client_info": {
+          "package_name": "com.example.mfys_technology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361165861342-0p47atfh6p9uu8ier3ekhvcpok7dmqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0za1xHeJGGGizLy5Xj6uDhuG8JdBLVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361165861342-0p47atfh6p9uu8ier3ekhvcpok7dmqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
